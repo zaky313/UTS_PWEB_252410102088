@@ -24,7 +24,7 @@ Tempat tampilan dashboard
 Tempat menampilkan profil username kita
 
 ### 4. Halaman Pengelolaan
-![Halaman Pengelolaan](public/images/Pengelolaan.png)
+![Halaman Pengelolaan](public/images/Pengelolahan.png)
 Tempat menampilkan Data Array nya
 
 ---
